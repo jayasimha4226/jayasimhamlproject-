@@ -1,0 +1,6 @@
+pandas
+numpy
+matpotlib
+seaborn
+joblib
+scikit-learn==1.2.2
